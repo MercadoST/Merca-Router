@@ -1,6 +1,6 @@
 {
   "name": "merca-router",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "mercadost <santi_merca@live.com.ar>",
   "type": "module",
   "main": "lib/index.js",
